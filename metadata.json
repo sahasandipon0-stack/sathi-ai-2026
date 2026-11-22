@@ -1,0 +1,6 @@
+{
+  "name": "সাথী এআই",
+  "description": "আপনার আপন, বুদ্ধিমান ও বন্ধুসুলভ বাংলা এআই অ্যাসিস্ট্যান্ট — কথোপকথন, ইউটিউব ভিডিও স্ক্রিপ্ট ও ডিভাইস অ্যাকশনের জন্য।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

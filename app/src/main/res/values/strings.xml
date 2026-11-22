@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">সাথী এআই</string>
+    <string name="sathi_subtitle">আপনার আপন বাংলা এআই বন্ধু</string>
+    <string name="cd_sathi_avatar">সাথী এআই প্রোফাইল ছবি</string>
+    <string name="cd_studio_banner">ইউটিউব স্ক্রিপ্ট স্টুডিও ব্যানার</string>
+    <string name="cd_mic_button">ভয়েসে কথা বলুন</string>
+    <string name="cd_send_button">বার্তা পাঠান</string>
+    <string name="cd_speak_message">এই উত্তরটি শুনুন</string>
+    <string name="cd_copy_script">স্ক্রিপ্ট কপি করুন</string>
+    <string name="cd_share_script">স্ক্রিপ্ট শেয়ার করুন</string>
+    <string name="cd_new_chat">নতুন চ্যাট শুরু করুন</string>
+</resources>
